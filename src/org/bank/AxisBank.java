@@ -5,5 +5,11 @@ public class AxisBank {
 		System.out.println("Deposite");
 
 	}
+	public void methodThree() {
+		System.out.println("MEthod 3");
+	}
+	public void methodFour() {
+		System.out.println("Method 4");
+	}
 
 }
