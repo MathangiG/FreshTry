@@ -11,6 +11,11 @@ public class AxisBank {
 	}
 	public void methodTwo() {
 		System.out.println("Method 2");
+	
+	}
+	
+	public void methodNotFound() {
+		System.out.println("Method not found");
 	}
 
 }
